@@ -4,3 +4,10 @@ https://waw.ic.smcdn.pl/3990-1.mp3; VOX FM
 http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01; Radio Zet
 http://s0.radiohost.pl:8018/stream; Italo 4 you
 http://stream.antennethueringen.de/live/aac-64/stream.antennethueringen.de/; AAC
+https://radiostream.pl/tuba8920-1.mp3; Radio Zlote Przeboje
+http://gamershouse.hu:8000/livemega.mp3; Mega Dance Radio
+https://rs6-krk2.rmfstream.pl/rmf_maxxx; RMF Maxxx
+https://broadcast.miami/proxy/italodisco?mp=/stream2; Radio Italo Disco
+https://stream.laut.fm/80s-mix-radio; 80s Mix Radio
+https://stream3.radiodienst.de/proxy/mega80s/80s; Mega 80s
+https://streams.80s80s.de/love/mp3-192/streams; 80s80s - Love
