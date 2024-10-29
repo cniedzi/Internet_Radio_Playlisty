@@ -1,3 +1,3 @@
-Ulubione https://raw.githubusercontent.com/cniedzi/InternetRadio/main/Ulubione.txt
-Polskie https://raw.githubusercontent.com/cniedzi/InternetRadio/main/Polskie.txt
-Italo Disco https://raw.githubusercontent.com/cniedzi/InternetRadio/main/ItaloDisco.txt
+Ulubione stacje; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/Ulubione.txt
+Polskie stacje; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/Polskie.txt
+Italo Disco; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/ItaloDisco.txt
