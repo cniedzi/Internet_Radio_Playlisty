@@ -1,0 +1,6 @@
+http://ic1.smcdn.pl/2380-1.mp3; ESKA
+http://195.150.20.242:8000/rmf_fm; RMF FM
+https://waw.ic.smcdn.pl/3990-1.mp3; VOX FM
+http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01; Radio Zet
+https://radiostream.pl/tuba8920-1.mp3; Złote Przeboje
+https://rs6-krk2.rmfstream.pl/rmf_maxxx; RMF Maxxx
