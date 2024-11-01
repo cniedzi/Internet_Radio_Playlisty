@@ -1,2 +1,2 @@
 http://ic1.smcdn.pl/2380-1.mp3 ESKA
-http://s0.radiohost.pl:8018/stream Italo 4 you
+http://s0.radiohost.pl:8018/stream; Italo 4 you
