@@ -1,4 +1,6 @@
-Ulubione stacje; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/Ulubione.txt
-Polskie stacje; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/Polskie.txt
-Lata '80; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/ItaloDisco.txt
+Playlist = Ulubione stacje
+
+Playlist = Polskie stacje
+
+Playlist = Lata '80
 
