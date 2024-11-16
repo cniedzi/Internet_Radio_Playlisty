@@ -17,7 +17,7 @@ Playlist=Polskie stacje
 ESKA; http://ic1.smcdn.pl/2380-1.mp3
 RMF FM; http://195.150.20.242:8000/rmf_fm
 Radio Trójka; https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
-Radio Trójka 2; 	http://mp3.polskieradio.pl:8904/;.mp3
+Radio Trójka 2; http://mp3.polskieradio.pl:8904/;.mp3
 VOX FM; https://waw.ic.smcdn.pl/3990-1.mp3
 VOX FM Disco 90; http://ic1.smcdn.pl/6170-1.mp3
 Radio Zet; http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
