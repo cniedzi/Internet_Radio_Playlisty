@@ -41,7 +41,7 @@ https://streams.80s80s.de/love/mp3-192/streams; 80s80s - Love
 Playlist=Polskie stacje
 http://ic1.smcdn.pl/2380-1.mp3; ESKA
 http://195.150.20.242:8000/rmf_fm; RMF FM
-mms://stream.polskieradio.pl/program3; Radio Trójka
+http://ic.dktr.pl:8000/trojka.ogg; Radio Trójka
 https://waw.ic.smcdn.pl/3990-1.mp3; VOX FM
 http://ic1.smcdn.pl/6170-1.mp3; VOX FM Disco 90
 http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01; Radio Zet
@@ -60,7 +60,7 @@ https://broadcast.miami/proxy/italodisco?mp=/stream2; Radio Italo Disco
 https://stream.laut.fm/80s-mix-radio; 80s Mix Radio
 https://streams.80s80s.de/love/mp3-192/streams; 80s80s - Love
 https://stream.open.fm/3; OpenFM-80s Hits
-	http://stream.open.fm/27; OpenFM-Italo Disco
+http://stream.open.fm/27; OpenFM-Italo Disco
 
 Playlist=OpenFM
 https://stream.open.fm/3; 80s Hits
