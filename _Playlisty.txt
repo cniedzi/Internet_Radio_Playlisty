@@ -43,8 +43,8 @@ Italo 4 you; http://s0.radiohost.pl:8018/stream
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s Mix Radio; https://stream.laut.fm/80s-mix-radio
 80s80s - Love; https://streams.80s80s.de/love/mp3-192/streams
-OpenFM-80s Hits; https://stream.open.fm/3
-OpenFM-Italo Disco; http://stream.open.fm/27
+80s Hits; https://stream.open.fm/3
+Italo Disco; http://stream.open.fm/27
 
 Playlist=OpenFM
 Po Polsku; https://stream.open.fm/1
@@ -57,7 +57,6 @@ Klub 90; https://stream.open.fm/8
 1001 Hits; https://stream.open.fm/11
 Impreza PL; https://stream.open.fm/12
 90's Hits; https://stream.open.fm/14
-100% Dżem; https://stream.open.fm/15
 Po Polsku 60's/70's; https://stream.open.fm/17
 Ballady Wszech Czasów; https://stream.open.fm/20
 Disco Polo; https://stream.open.fm/21
@@ -69,7 +68,6 @@ Polski Rock Classic; https://stream.open.fm/45
 Classic Hits; https://stream.open.fm/46
 Disco Polo Classic; https://stream.open.fm/49
 Classic Party; https://stream.open.fm/50
-Fun!; https://stream.open.fm/51
 Top 20 Disco Polo; https://stream.open.fm/53
 Na Gwiazdkę Po Polsku; https://stream.open.fm/56
 Disco Polo Freszzz; https://stream.open.fm/57
