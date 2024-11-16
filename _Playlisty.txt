@@ -49,6 +49,6 @@ OpenFM-Italo Disco; http://stream.open.fm/27
 Playlist=OpenFM
 80s Hits; https://stream.open.fm/3
 500 Party Hits; https://stream.open.fm/81
-Italo Disco; http://stream.open.fm/27
-Rock Ballady; http://stream.open.fm/61
-Top 20 Rock; http://open.fm/play/99
+Italo Disco; https://stream.open.fm/27
+Rock Ballady; https://stream.open.fm/61
+Top 20 Rock; https://open.fm/play/99
