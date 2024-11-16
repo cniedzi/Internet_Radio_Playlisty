@@ -1,70 +1,46 @@
 Playlist=Ulubione stacje
-http://ic1.smcdn.pl/2380-1.mp3* ESKA
-http://195.150.20.242:8000/rmf_fm* RMF FM
-https://waw.ic.smcdn.pl/3990-1.mp3* VOX FM
-http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01* Radio Zet
-http://s0.radiohost.pl:8018/stream* Italo 4 you
-http://stream.antennethueringen.de/live/aac-64/stream.antennethueringen.de/* AAC
-https://radiostream.pl/tuba8920-1.mp3* Złote Przeboje
-http://gamershouse.hu:8000/livemega.mp3* Mega Dance Radio
-https://rs6-krk2.rmfstream.pl/rmf_maxxx* RMF Maxxx
-https://broadcast.miami/proxy/italodisco?mp=/stream2* Radio Italo Disco
-https://stream.laut.fm/80s-mix-radio* 80s Mix Radio
-https://streams.80s80s.de/love/mp3-192/streams* 80s80s - Love
-http://ic1.smcdn.pl/2380-1.mp3* ESKA
-http://195.150.20.242:8000/rmf_fm* RMF FM
-https://waw.ic.smcdn.pl/3990-1.mp3* VOX FM
-http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01* Radio Zet
-http://s0.radiohost.pl:8018/stream* Italo 4 you
-http://stream.antennethueringen.de/live/aac-64/stream.antennethueringen.de/* AAC
-https://radiostream.pl/tuba8920-1.mp3* Złote Przeboje
-http://gamershouse.hu:8000/livemega.mp3* Mega Dance Radio
-https://rs6-krk2.rmfstream.pl/rmf_maxxx; RMF Maxxx
-https://broadcast.miami/proxy/italodisco?mp=/stream2* Radio Italo Disco
-https://stream.laut.fm/80s-mix-radio* 80s Mix Radio
-https://streams.80s80s.de/love/mp3-192/streams* 80s80s - Love
-http://ic1.smcdn.pl/2380-1.mp3* ESKA
-http://195.150.20.242:8000/rmf_fm* RMF FM
-https://waw.ic.smcdn.pl/3990-1.mp3* VOX FM
-http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01* Radio Zet
-http://s0.radiohost.pl:8018/stream* Italo 4 you
-https://radiostream.pl/tuba8920-1.mp3* Złote Przeboje
-http://gamershouse.hu:8000/livemega.mp3* Mega Dance Radio
-https://rs6-krk2.rmfstream.pl/rmf_maxxx* RMF Maxxx
-https://broadcast.miami/proxy/italodisco?mp=/stream2* Radio Italo Disco
-https://stream.laut.fm/80s-mix-radio* 80s Mix Radio
-https://streams.80s80s.de/love/mp3-192/streams* 80s80s - Love
+ESKA; http://ic1.smcdn.pl/2380-1.mp3
+RMF FM; http://195.150.20.242:8000/rmf_fm
+VOX FM; https://waw.ic.smcdn.pl/3990-1.mp3
+Radio Zet; http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
+Italo 4 you; http://s0.radiohost.pl:8018/stream
+Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
+Mega Dance Radio; http://gamershouse.hu:8000/livemega.mp3
+RMF Maxxx; https://rs6-krk2.rmfstream.pl/rmf_maxxx
+Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
+80s Mix Radio; https://stream.laut.fm/80s-mix-radio
+80s80s - Love; https://streams.80s80s.de/love/mp3-192/streams
 
 
 
 Playlist=Polskie stacje
-http://ic1.smcdn.pl/2380-1.mp3* ESKA
-http://195.150.20.242:8000/rmf_fm* RMF FM
-https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8* Radio Trójka
-http://mp3.polskieradio.pl:8904/* Radio Trójka 2
-https://waw.ic.smcdn.pl/3990-1.mp3* VOX FM
-http://ic1.smcdn.pl/6170-1.mp3* VOX FM Disco 90
-http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01* Radio Zet
-https://radiostream.pl/tuba8920-1.mp3* Złote Przeboje
-https://rs6-krk2.rmfstream.pl/rmf_maxxx* RMF Maxxx
-https://an03.cdn.eurozet.pl/ant-web.mp3?t=1713710188361?redirected=03* Anty Radio
-https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK* ESKA Rock
-http://ic1.smcdn.pl/6030-1.mp3* ESKA Impreska
-https://radiostream.pl/tuba10-1.mp3* Tok FM
-https://ic2.smcdn.pl/6120-1.mp3* ESKA Summer City
+ESKA; http://ic1.smcdn.pl/2380-1.mp3
+RMF FM; http://195.150.20.242:8000/rmf_fm
+Radio Trójka; https://stream13.polskieradio.pl/pr3/pr3.sdp/playlist.m3u8
+Radio Trójka 2; http://mp3.polskieradio.pl:8904/
+VOX FM; https://waw.ic.smcdn.pl/3990-1.mp3
+VOX FM Disco 90; http://ic1.smcdn.pl/6170-1.mp3
+Radio Zet; http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
+Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
+RMF Maxxx; https://rs6-krk2.rmfstream.pl/rmf_maxxx
+Anty Radio; https://an03.cdn.eurozet.pl/ant-web.mp3?t=1713710188361?redirected=03
+ESKA Rock; https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
+ESKA Impreska; http://ic1.smcdn.pl/6030-1.mp3
+Tok FM; https://radiostream.pl/tuba10-1.mp3
+ESKA Summer City; https://ic2.smcdn.pl/6120-1.mp3
 
 
 Playlist=Lata '80
-http://s0.radiohost.pl:8018/stream* Italo 4 you
-https://broadcast.miami/proxy/italodisco?mp=/stream2* Radio Italo Disco
-https://stream.laut.fm/80s-mix-radio* 80s Mix Radio
-https://streams.80s80s.de/love/mp3-192/streams* 80s80s - Love
-https://stream.open.fm/3* OpenFM-80s Hits
-http://stream.open.fm/27* OpenFM-Italo Disco
+Italo 4 you; http://s0.radiohost.pl:8018/stream
+Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
+80s Mix Radio; https://stream.laut.fm/80s-mix-radio
+80s80s - Love; https://streams.80s80s.de/love/mp3-192/streams
+OpenFM-80s Hits; https://stream.open.fm/3
+OpenFM-Italo Disco; http://stream.open.fm/27
 
 Playlist=OpenFM
-https://stream.open.fm/3* 80s Hits
-https://stream.open.fm/81* 500 Party Hits
-http://stream.open.fm/27* Italo Disco
-http://stream.open.fm/61* Rock Ballady
-http://open.fm/play/99* Top 20 Rock
+80s Hits; https://stream.open.fm/3
+500 Party Hits; https://stream.open.fm/81
+Italo Disco; http://stream.open.fm/27
+Rock Ballady; http://stream.open.fm/61
+Top 20 Rock; http://open.fm/play/99
