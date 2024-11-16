@@ -3,7 +3,7 @@ ESKA; http://ic1.smcdn.pl/2380-1.mp3
 RMF FM; http://195.150.20.242:8000/rmf_fm
 Polskie Radio Trójka; http://mp3.polskieradio.pl:8904/;.mp3
 VOX FM; https://waw.ic.smcdn.pl/3990-1.mp3
-Radio Zet; http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
+Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 Italo 4 you; http://s0.radiohost.pl:8018/stream
 Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
 Mega Dance Radio; http://gamershouse.hu:8000/livemega.mp3
@@ -19,7 +19,7 @@ ESKA; http://ic1.smcdn.pl/2380-1.mp3
 ESKA 2; https://waw.ic.smcdn.pl/1240-2.aac
 ESKA Summer City; https://ic2.smcdn.pl/6120-1.mp3
 RMF FM; http://195.150.20.242:8000/rmf_fm
-Radio Zet; http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01
+Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 PR Jedynka; http://stream3.polskieradio.pl:8900/;
 PR Dwójka; http://mp3.polskieradio.pl:8902/;
 PR Trójka; http://mp3.polskieradio.pl:8904/;.mp3
@@ -47,8 +47,88 @@ OpenFM-80s Hits; https://stream.open.fm/3
 OpenFM-Italo Disco; http://stream.open.fm/27
 
 Playlist=OpenFM
-80s Hits; https://stream.open.fm/3
-500 Party Hits; https://stream.open.fm/81
+Po Polsku; https://stream.open.fm/1
+Impreza; https://stream.open.fm/2
+80's Hits; https://stream.open.fm/3
+We Dwoje; https://stream.open.fm/4
+House; https://stream.open.fm/5
+Alt Freszzz; https://stream.open.fm/6
+Trance; https://stream.open.fm/7
+Klub 90; https://stream.open.fm/8
+Alt Club; https://stream.open.fm/9
+#popularne; https://stream.open.fm/10
+1001 Hits; https://stream.open.fm/11
+Impreza PL; https://stream.open.fm/12
+Ciężkie Brzmienia; https://stream.open.fm/13
+90's Hits; https://stream.open.fm/14
+100% Dżem; https://stream.open.fm/15
+Kids; https://stream.open.fm/16
+Po Polsku 60's/70's; https://stream.open.fm/17
+Sexy: Soul & R’n’B; https://stream.open.fm/18
+Latino Hits; https://stream.open.fm/19
+Ballady Wszech Czasów; https://stream.open.fm/20
+Disco Polo; https://stream.open.fm/21
+Polskie Reggae; https://stream.open.fm/22
+Hip-Hop USA; https://stream.open.fm/23
+Hip-Hop PL; https://stream.open.fm/24
+Retro Café; https://stream.open.fm/25
+500 R’n’B Hits; https://stream.open.fm/26
 Italo Disco; https://stream.open.fm/27
+Szanty; https://stream.open.fm/28
+Polski Rock; https://stream.open.fm/29
+500 Reggae Hits; https://stream.open.fm/30
+Dance; https://stream.open.fm/31
+Classic Rock; https://stream.open.fm/32
+Chillout; https://stream.open.fm/33
+Alt Café; https://stream.open.fm/34
+100% Kazik; https://stream.open.fm/35
+Alt PL; https://stream.open.fm/36
+Kraina Łagodności; https://stream.open.fm/37
+Muzyka Filmowa; https://stream.open.fm/38
+Freszzz: Jesień 2017; https://stream.open.fm/39
+American Rock; https://stream.open.fm/40
+Drum’n’Bass; https://stream.open.fm/41
+100% Linkin Park; https://stream.open.fm/42
+Alt Classic; https://stream.open.fm/43
+Polski Rock Classic; https://stream.open.fm/45
+Classic Hits; https://stream.open.fm/46
+100% O.S.T.R.; https://stream.open.fm/47
+Lejdis Café; https://stream.open.fm/48
+Disco Polo Classic; https://stream.open.fm/49
+Classic Party; https://stream.open.fm/50
+Fun!; https://stream.open.fm/51
+Odgłosy Natury; https://stream.open.fm/52
+Top 20 Disco Polo; https://stream.open.fm/53
+500 Heavy Hits; https://stream.open.fm/54
+500 Alternative Hits; https://stream.open.fm/55
+Na Gwiazdkę Po Polsku; https://stream.open.fm/56
+Disco Polo Freszzz; https://stream.open.fm/57
+Gwiazdy; https://stream.open.fm/58
+Biesiada; https://stream.open.fm/59
+Smooth Jazz; https://stream.open.fm/60
 Rock Ballady; https://stream.open.fm/61
-Top 20 Rock; https://open.fm/play/99
+100% Metallica; https://stream.open.fm/62
+100% Justin Bieber; https://stream.open.fm/63
+100% Hits; https://stream.open.fm/64
+Fitness; https://stream.open.fm/65
+Biesiada Śląska; https://stream.open.fm/66
+Muzyka Klasyczna; https://stream.open.fm/67
+Dubstep; https://stream.open.fm/68
+Dzień Dobry!; https://stream.open.fm/69
+Sylwestrowe Hity; https://stream.open.fm/71
+00's Hits; https://stream.open.fm/72
+100% Grabaż; https://stream.open.fm/73
+Dobranoc; https://stream.open.fm/74
+Crema Café; https://stream.open.fm/76
+Rocks; https://stream.open.fm/77
+Punk Rock; https://stream.open.fm/78
+Po Polsku 80/90; https://stream.open.fm/79
+100% One Direction; https://stream.open.fm/80
+500 Party Hits; https://stream.open.fm/81
+500 Rock Hits; https://stream.open.fm/82
+Top 20 Alt; https://stream.open.fm/83
+500 Hip-Hop Hits; https://stream.open.fm/84
+Wiosna; https://stream.open.fm/85
+Na Gwiazdkę; https://stream.open.fm/87
+Na Gwiazdkę Jazz; https://stream.open.fm/88
+Na Gwiazdkę Kolędy; https://stream.open.fm/89
