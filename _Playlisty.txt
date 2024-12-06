@@ -57,7 +57,7 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
 80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
 80s Hits; https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac
-Heart 80s; https://ice-sov.musicradio.com/Heart80s
+Heart 80s; https://ice-sov.musicradio.com/Heart80sHD?hdauth=:2000000000:a290d4b39a16153061d4c743008b9fe8d424a7e5ec6469d40acf51fdcd336e80
 Easy 80s Hits; https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8
 
 
