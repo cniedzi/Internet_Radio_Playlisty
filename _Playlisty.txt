@@ -9,7 +9,9 @@ ESKA Impreska; http://ic1.smcdn.pl/6030-1.mp3
 Italo 4 you; http://s0.radiohost.pl:8018/stream
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s Mix Radio; https://stream.laut.fm/80s-mix-radio
-80s80s - Love; https://streams.80s80s.de/love/mp3-192/streams
+80s80s; https://streams.80s80s.de/web/aac-64
+80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
+80s80 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 
 
 
@@ -41,8 +43,12 @@ Playlist=Lata '80
 Italo 4 you; http://s0.radiohost.pl:8018/stream
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s Mix Radio; https://stream.laut.fm/80s-mix-radio
-80s80s - Love; https://streams.80s80s.de/love/mp3-192/streams
-
+80s80s; https://streams.80s80s.de/web/aac-64
+80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
+80s80 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
+80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
+80s80s Rock; https://streams.80s80s.de/rock/aac-64
+80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
 
 Playlist=OpenFM
 Po Polsku; https://stream.open.fm/1
