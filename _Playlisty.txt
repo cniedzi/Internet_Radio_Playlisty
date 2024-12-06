@@ -11,15 +11,19 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s Mix Radio; https://stream.laut.fm/80s-mix-radio
 80s80s; https://streams.80s80s.de/web/aac-64
 80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
-80s80 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
-
+80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
+80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
+80s80s In The Mix; https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713
 
 
 Playlist=Polskie stacje
 ESKA; http://ic1.smcdn.pl/2380-1.mp3
 ESKA 2; https://waw.ic.smcdn.pl/1240-2.aac
 ESKA Summer City; https://ic2.smcdn.pl/6120-1.mp3
+ESKA Rock; https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
+ESKA Impreska; http://ic1.smcdn.pl/6030-1.mp3
 RMF FM; http://195.150.20.242:8000/rmf_fm
+RMF Maxxx; https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 PR Jedynka; http://stream3.polskieradio.pl:8900/;
 PR Dwójka; http://mp3.polskieradio.pl:8902/;
@@ -30,10 +34,7 @@ VOX FM Disco 90; http://ic1.smcdn.pl/6170-1.mp3
 Radio Pogoda; https://radiostream.pl/tuba38-1.aac
 Radio Dla Ciebie; https://stream4.nadaje.com:14007/plock
 Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
-RMF Maxxx; https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Anty Radio; https://an03.cdn.eurozet.pl/ant-web.mp3?t=1713710188361?redirected=03
-ESKA Rock; https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK
-ESKA Impreska; http://ic1.smcdn.pl/6030-1.mp3
 Tok FM; https://radiostream.pl/tuba10-1.mp3
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio Bogoria; http://s6.radiohost.pl:8888/;
@@ -45,7 +46,7 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s Mix Radio; https://stream.laut.fm/80s-mix-radio
 80s80s; https://streams.80s80s.de/web/aac-64
 80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
-80s80 Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
+80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
 80s80s Rock; https://streams.80s80s.de/rock/aac-64
 80s80s Dance; https://regiocast.streamabc.net/regc-80s80sdance2523717-aacplus-64-1061596
@@ -58,6 +59,8 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s Hits; https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac
 Heart 80s; https://ice-sov.musicradio.com/Heart80s
 Easy 80s Hits; https://wz2liw.scahw.com.au/live/2easy_128.stream/playlist.m3u8
+
+
 
 Playlist=OpenFM
 Po Polsku; https://stream.open.fm/1
