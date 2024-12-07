@@ -56,7 +56,7 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 80s80s Summer; https://regiocast.streamabc.net/regc-80s80ssummerhits6639316-mp3-192-4184283
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
 80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
-80s Hits; https://live-bauerdk.sharp-stream.com/DK_HQ_RP04.aac
+
 
 
 
