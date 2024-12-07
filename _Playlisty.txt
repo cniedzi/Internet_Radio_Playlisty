@@ -20,6 +20,7 @@ Playlist=Polskie stacje
 ESKA; https://waw.ic.smcdn.pl/2380-1.aac
 ESKA 2; https://waw.ic.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://waw.ic.smcdn.pl/6230-1.aac
+ESKA 2 Disco Polo; https://waw.ic.smcdn.pl/6110-1.aac
 ESKA Summer City; https://waw.ic.smcdn.pl/6120-1.aac
 ESKA Rock; https://waw.ic.smcdn.pl/5980-1.aac
 ESKA Impreska; https://waw.ic.smcdn.pl/6030-1.aac
