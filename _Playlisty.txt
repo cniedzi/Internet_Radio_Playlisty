@@ -18,7 +18,6 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/stream2
 
 Playlist=Polskie stacje
 ESKA; https://waw.ic.smcdn.pl/2380-1.aac
-ESKA Gorąca 20; https://radio.stream.smcdn.pl/timeradio-p/6130-1.aac/playlist.m3u8
 ESKA 2; https://waw.ic.smcdn.pl/1380-1.aac
 ESKA 2 Kultowe Polskie; https://radio.stream.smcdn.pl/timeradio-p/6040-1.aac/playlist.m3u8
 ESKA 2 Polskie Na Czasie; https://waw.ic.smcdn.pl/6230-1.aac
