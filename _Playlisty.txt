@@ -25,7 +25,7 @@ ESKA Impreska; http://ic1.smcdn.pl/6030-1.mp3
 RMF FM; http://195.150.20.242:8000/rmf_fm
 RMF Maxxx; https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
-PR Jedynka; http://stream3.polskieradio.pl:8900/;
+PR Jedynka; http://mp3.polskieradio.pl:8900/;
 PR Dwójka; http://mp3.polskieradio.pl:8902/;
 PR Trójka; http://mp3.polskieradio.pl:8904/;.mp3
 PR Czwórka; http://stream3.polskieradio.pl:8906/;
