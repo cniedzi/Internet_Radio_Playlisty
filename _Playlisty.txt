@@ -41,6 +41,10 @@ Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 Tok FM; https://radiostream.pl/tuba10-1.mp3
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio Bogoria; http://s6.radiohost.pl:8888/;
+Mbox; https://s1.slotex.pl:7462/;
+Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
+Mbox Gold Hits; https://s3.slotex.pl:7276/stream
+Mbox Disco Polo; https://s3.slotex.pl:7222/stream
 
 
 Playlist=Lata '80
