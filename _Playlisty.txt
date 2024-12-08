@@ -49,6 +49,7 @@ Italo Disco Net; http://cast2.asurahosting.com:8356/;
 CMR Italo Disco; https://cmr-hosting.com:7005/;
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
 RMI ITalo Disco Classic; https://cast1.torontocast.com:1160/stream
+RDMix Italo Disco 80s; https://cast1.torontocast.com:2130/stream
 80s80s; https://streams.80s80s.de/web/aac-64
 80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
