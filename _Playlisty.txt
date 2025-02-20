@@ -7,7 +7,7 @@ VOX FM; https://waw.ic.smcdn.pl/3990-1.aac
 ESKA Rock; https://waw.ic.smcdn.pl/5980-1.aac
 ESKA Impreska; https://waw.ic.smcdn.pl/6030-1.aac
 Italo 4 you; http://s0.radiohost.pl:8018/stream
-Italo Disco Net; http://cast2.asurahosting.com:8356/;
+Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
 80s80s; https://streams.80s80s.de/web/aac-64
 80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
@@ -49,7 +49,7 @@ Mbox Disco Polo; https://s3.slotex.pl:7222/stream
 
 Playlist=Lata '80
 Italo 4 you; http://s0.radiohost.pl:8018/stream
-Italo Disco Net; http://cast2.asurahosting.com:8356/;
+Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 CMR Italo Disco; https://cmr-hosting.com:7005/;stream/1
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
 RMI Italo Disco Classic; https://cast1.torontocast.com:1160/stream
