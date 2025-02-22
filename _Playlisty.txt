@@ -1,19 +1,8 @@
 Playlist=Ulubione stacje
-RMF FM; https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48
-ESKA; https://waw.ic.smcdn.pl/2380-1.aac
-Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
-PR Trójka; http://mp3.polskieradio.pl:8904/;
-VOX FM; https://waw.ic.smcdn.pl/3990-1.aac
-ESKA Rock; https://waw.ic.smcdn.pl/5980-1.aac
-ESKA Impreska; https://waw.ic.smcdn.pl/6030-1.aac
-Italo 4 you; http://s0.radiohost.pl:8018/stream
-Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
-Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
-80s80s; https://streams.80s80s.de/web/aac-64
-80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
-80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
-80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
-80s80s In The Mix; https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713
+ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
+ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
+ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
+
 
 Playlist=Italo Disco
 Italo 4 you; http://s0.radiohost.pl:8018/stream
@@ -60,7 +49,7 @@ Mbox Disco Polo; https://s3.slotex.pl:7222/stream
 
 Playlist=Lata '80
 80s80s Digital; https://streams.80s80s.de/web/aac-64
-80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
+80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
 80s80s Rock; https://streams.80s80s.de/rock/aac-64
@@ -71,6 +60,7 @@ Playlist=Lata '80
 80s80s Summer; https://regiocast.streamabc.net/regc-80s80ssummerhits6639316-mp3-192-4184283
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
 80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
+ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 
 Playlist=Lata '90
 90s90s Digital; http://streams.90s90s.de/pop/aac-64/
@@ -78,7 +68,21 @@ Playlist=Lata '90
 90s90s Summerhits; http://streams.90s90s.de/90s90s-sommerhits/aac-64/
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
 90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
+ON Radio 90s; https://0n-90s.radionetz.de/0n-90s.aac
+
+Playlist=Greatest Hits
+ON Radio Greatest Hits; https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
+ON Radio Classic Rock; https://0n-classicrock.radionetz.de/0n-classicrock.aac
+ON Radio Oldies; https://0n-oldies.radionetz.de/0n-oldies.aac
+ON Radio Gold; https://0n-gold.radionetz.de/0n-gold.aac
+ON Radio Evergreens; https://0n-evergreens.radionetz.de/0n-evergreens.aac
 
 Playlist=Christmas
 Christmas Vinyl HD; https://icecast.walmradio.com:8443/christmas
 80s80s Christmas; https://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017
+ON Radio Christmas; https://0n-christmas.radionetz.de/0n-christmas.aac
+
+Playlist=Lovesongs
+ON Radio Love; https://0n-love.radionetz.de/0n-love.aac
+80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
+90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
