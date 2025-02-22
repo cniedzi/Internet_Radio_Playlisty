@@ -67,3 +67,10 @@ RDMix Italo Disco 80s; https://cast1.torontocast.com:2130/stream
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
 80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
 
+Playlist=Lata '90
+90s90s Digital; http://streams.90s90s.de/pop/aac-64/
+90s90s In The Mix; http://streams.90s90s.de/inthemix/aac-64/
+90s90s Summerhits; http://streams.90s90s.de/90s90s-sommerhits/aac-64/
+90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
+90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
+
