@@ -64,9 +64,9 @@ ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 Playlist=Lata '90
 90s90s Digital; http://streams.90s90s.de/pop/aac-64/
 90s90s In The Mix; http://streams.90s90s.de/inthemix/aac-64/
+90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
 90s90s Summerhits; http://streams.90s90s.de/90s90s-sommerhits/aac-64/
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
-90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
 ON Radio 90s; https://0n-90s.radionetz.de/0n-90s.aac
 
 Playlist=Greatest Hits
