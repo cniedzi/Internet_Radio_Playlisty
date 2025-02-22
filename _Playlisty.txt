@@ -1,8 +1,7 @@
 Playlist=Ulubione stacje
-ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
 ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
 ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
-
+ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
 
 Playlist=Italo Disco
 Italo 4 you; http://s0.radiohost.pl:8018/stream
