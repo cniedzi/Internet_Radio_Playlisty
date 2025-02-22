@@ -15,6 +15,18 @@ Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
 80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
 80s80s In The Mix; https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713
 
+Playlist=Italo Disco
+Italo 4 you; http://s0.radiohost.pl:8018/stream
+Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
+CMR Italo Disco; https://cmr-hosting.com:7005/;stream/1
+Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
+RMI Italo Disco Classic; https://cast1.torontocast.com:1160/stream
+RDMix Italo Disco 80s; https://cast1.torontocast.com:2130/stream
+Radio Megatron Mix FM; https://maximacenterdata.com/8084/megatronmix
+Radio Italo Power; https://stream.deevaradio.net:10443/italopower
+Radio Maxitalo; https://cast1.torontocast.com:1335/stream
+Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
+80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 
 Playlist=Polskie stacje
 ESKA; https://waw.ic.smcdn.pl/2380-1.aac
@@ -46,15 +58,8 @@ Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
 Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
 
-
 Playlist=Lata '80
-Italo 4 you; http://s0.radiohost.pl:8018/stream
-Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
-CMR Italo Disco; https://cmr-hosting.com:7005/;stream/1
-Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
-RMI Italo Disco Classic; https://cast1.torontocast.com:1160/stream
-RDMix Italo Disco 80s; https://cast1.torontocast.com:2130/stream
-80s80s; https://streams.80s80s.de/web/aac-64
+80s80s Digital; https://streams.80s80s.de/web/aac-64
 80s80s Love; https://streams.80s80s.de/love/mp3-192/streams
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 80s80s Maxis; https://streams.80s80s.de/80s80sMV/mp3-192
@@ -74,3 +79,6 @@ Playlist=Lata '90
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
 90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
 
+Playlist=Christmas
+Christmas Vinyl HD; https://icecast.walmradio.com:8443/christmas
+80s80s Christmas; https://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017
