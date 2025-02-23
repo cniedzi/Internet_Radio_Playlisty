@@ -1,5 +1,4 @@
 Playlist=Ulubione stacje
-XXX; https://stream-cdn-1.open.fm/OFM7/ngrp:standard/media-633029791_b192000_19863977.ts
 ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
 ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
 ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
