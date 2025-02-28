@@ -15,6 +15,9 @@ Radio Italo Power; https://stream.deevaradio.net:10443/italopower
 Radio Maxitalo; https://cast1.torontocast.com:1335/stream
 Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
+Mirage Italo Dance; http://s0.radiohost.pl:9569/;
+Mirage Space; https://ssl-1.radiohost.pl:9563
+
 
 Playlist=Polskie stacje
 ESKA; https://waw.ic.smcdn.pl/2380-1.aac
@@ -41,10 +44,14 @@ Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 Tok FM; https://radiostream.pl/tuba10-1.mp3
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio Bogoria; http://s6.radiohost.pl:8888/;
+Radio FAMA Żyrardow; http://stream4.nadaje.com:13770
 Mbox; https://s1.slotex.pl:7462/;
 Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
 Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
+Najpiękniejsze polskie; http://stream3.polskieradio.pl:8420
+Przeboje Lata z Radiem; http://stream3.polskieradio.pl:8426
+
 
 Playlist=Lata '80
 CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
@@ -61,6 +68,9 @@ CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
 80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
 ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
+FluxFM 80s; http://streams.fluxfm.de/80er/mp3-320/
+Back To The 80; http://149.56.185.82:8135/
+
 
 Playlist=Lata '90
 CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
@@ -70,6 +80,8 @@ CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
 90s90s Summerhits; http://streams.90s90s.de/90s90s-sommerhits/aac-64/
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
 ON Radio 90s; https://0n-90s.radionetz.de/0n-90s.aac
+Raute Musik 90s; http://90s-high.rautemusik.fm/
+
 
 Playlist=Greatest Hits
 ON Radio Greatest Hits; https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
