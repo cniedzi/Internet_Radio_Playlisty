@@ -47,6 +47,7 @@ Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
 
 Playlist=Lata '80
+CMR  70's 80's 90's; http://cmr-hosting.com:8030/;stream/1
 80s80s Digital; https://streams.80s80s.de/web/aac-64
 80s80s In The Mix; https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713
 80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
@@ -62,6 +63,7 @@ Playlist=Lata '80
 ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 
 Playlist=Lata '90
+CMR  70's 80's 90's; http://cmr-hosting.com:8030/;stream/1
 90s90s Digital; http://streams.90s90s.de/pop/aac-64/
 90s90s In The Mix; http://streams.90s90s.de/inthemix/aac-64/
 90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
