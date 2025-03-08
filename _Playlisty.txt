@@ -1,8 +1,3 @@
-Playlist=Ulubione stacje
-ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
-ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
-ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
-
 Playlist=Italo Disco
 Italo 4 you; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
@@ -99,3 +94,8 @@ Playlist=Lovesongs
 ON Radio Love; https://0n-love.radionetz.de/0n-love.aac
 80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
+
+Playlist=Inne
+ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
+ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
+ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
