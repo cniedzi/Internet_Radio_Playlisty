@@ -14,7 +14,7 @@ Mirage Italo Dance; http://s0.radiohost.pl:9569/;
 Mirage Space; https://ssl-1.radiohost.pl:9563
 
 
-Playlist=Polskie stacjeeeeeeee asdadasdas
+Playlist=Polskie xxxxxxeeeeeee asdadasdas
 ESKA; https://waw.ic.smcdn.pl/2380-1.aac
 ESKA 2; https://waw.ic.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://waw.ic.smcdn.pl/6230-1.aac
