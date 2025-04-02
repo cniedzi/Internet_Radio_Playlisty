@@ -1,4 +1,4 @@
-Playlist=Italo Disco
+Playlist=Italo Disco ABC
 Italo 4 you; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 CMR Italo Disco; https://cmr-hosting.com:7005/;stream/1
