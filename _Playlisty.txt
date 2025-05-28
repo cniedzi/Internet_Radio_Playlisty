@@ -100,3 +100,4 @@ Playlist=Inne
 ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
 ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
 ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
+Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
