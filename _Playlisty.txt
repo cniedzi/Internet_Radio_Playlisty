@@ -100,6 +100,8 @@ Playlist=Inne
 ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
 ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
 ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
+
+Playlist=Test
 Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
 BDPST ROCK Radio; https://s2.audiostream.hu/bdpstrock_FLAC
 Juventus Radio; http://s2.audiostream.hu:8090/juventus_FLAC
@@ -109,14 +111,6 @@ Ogg Opus HTTP; http://streams.radiomast.io/ref-64k-ogg-opus-stereo
 Ogg Opus HTTPS; https://streams.radiomast.io/ref-64k-ogg-opus-stereo
 Ogg FLAC HTTP; http://streams.radiomast.io/ref-lossless-ogg-flac-stereo
 Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-flac-stereo
-
-ASX; https://stream.srg-ssr.ch/rsp/aacp_48.asx
-FLAC; http://stream.radioparadise.com/flac
-FLAC OGG; http://stream.sing-sing-bis.org:8000/singsingFlac
-OPUS OGG; http://s1.knixx.fm:5347/dein_webradio_vbr.opus")
-VOBIS OGG; http://stream2.dancewave.online:8080/dance.ogg"
-HLS; http://26373.live.streamtheworld.com:3690/XHQQ_FMAAC/HLSTS/playlist.m3u8
-HLS TS; http://eldoradolive02.akamaized.net/hls/live/2043453/eldorado/master.m3u8
 WAV; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Pink-Panther.wav
 M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Miss-Marple.m4a
 
