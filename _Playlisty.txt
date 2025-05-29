@@ -104,4 +104,4 @@ Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
 BDPST ROCK Radio; https://s2.audiostream.hu/bdpstrock_FLAC
 Juventus Radio; http://s2.audiostream.hu:8090/juventus_FLAC
 Test; http://192.168.0.101:5000/AirMusic.mp3
-
+Test1; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-flac-stereo
