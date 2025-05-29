@@ -103,4 +103,9 @@ ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
 Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
 BDPST ROCK Radio; https://s2.audiostream.hu/bdpstrock_FLAC
 Juventus Radio; http://s2.audiostream.hu:8090/juventus_FLAC
-Test; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-flac-stereo
+Ogg Vorbis HTTP; http://streams.radiomast.io/ref-64k-ogg-vorbis-stereo
+Ogg Vorbis HTTPS; https://streams.radiomast.io/ref-64k-ogg-vorbis-stereo
+Ogg Opus HTTP; http://streams.radiomast.io/ref-64k-ogg-opus-stereo
+Ogg Opus HTTPS; https://streams.radiomast.io/ref-64k-ogg-opus-stereo
+Ogg FLAC HTTP; http://streams.radiomast.io/ref-lossless-ogg-flac-stereo
+Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-flac-stereo
