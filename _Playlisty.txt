@@ -103,5 +103,5 @@ ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
 Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
 BDPST ROCK Radio; https://s2.audiostream.hu/bdpstrock_FLAC
 Juventus Radio; http://s2.audiostream.hu:8090/juventus_FLAC
-Test; http://192.168.0.101:5000/AirMusic.wav
+Test; http://192.168.0.101:5000/AirMusic.mp3
 
