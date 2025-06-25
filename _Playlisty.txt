@@ -13,6 +13,7 @@ Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
 Mirage Italo Dance; http://s0.radiohost.pl:9569/;
 Mirage Space; https://ssl-1.radiohost.pl:9563
 
+Playlist=Blad
 
 Playlist=Polskie stacje
 ESKA; https://waw.ic.smcdn.pl/2380-1.aac
