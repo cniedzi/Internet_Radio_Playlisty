@@ -113,6 +113,6 @@ Ogg Opus HTTP; http://streams.radiomast.io/ref-64k-ogg-opus-stereo
 Ogg Opus HTTPS; https://streams.radiomast.io/ref-64k-ogg-opus-stereo
 Ogg FLAC HTTP; http://streams.radiomast.io/ref-lossless-ogg-flac-stereo
 Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-flac-stereo
-WAV; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Pink-Panther.wav
+WAV; https://raw.githubusercontent.com/cniedzi/InternetRadio/main/test.wav
 M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Miss-Marple.m4a
 
