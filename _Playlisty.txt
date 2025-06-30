@@ -11,7 +11,7 @@ Radio Maxitalo; https://cast1.torontocast.com:1335/stream
 Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 Mirage Italo Dance; http://s0.radiohost.pl:9569/;
-Mirage Space; https://ssl-1.radiohost.pl:9563
+Mirage Space; https://ssl-1.radiohost.pl:9563/stream?ver=987766
 
 
 Playlist=Polskie stacje
