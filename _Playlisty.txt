@@ -38,7 +38,6 @@ Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
 Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 Tok FM; https://radiostream.pl/tuba10-1.mp3
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
-Radio Bogoria; http://s6.radiohost.pl:8888/;
 Radio FAMA Żyrardow; http://stream4.nadaje.com:13770
 Mbox; https://s1.slotex.pl:7462/;
 Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
