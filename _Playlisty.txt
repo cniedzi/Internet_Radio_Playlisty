@@ -1,3 +1,4 @@
+Playlist=XXX
 Playlist=Italo Disco
 Italo 4 you; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
