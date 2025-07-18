@@ -113,4 +113,6 @@ Ogg Opus HTTPS; https://streams.radiomast.io/ref-64k-ogg-opus-stereo
 Ogg FLAC HTTP; http://streams.radiomast.io/ref-lossless-ogg-flac-stereo
 Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-flac-stereo
 M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Miss-Marple.m4a
+Flac 24bit; https://raw.githubusercontent.com/cniedzi/Internet_Radio_Playlisty/main/Flac.flac
+
 
