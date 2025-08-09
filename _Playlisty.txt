@@ -101,6 +101,7 @@ ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
 ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
 FTB Club; http://play.radioftb.net:8000/stream
 FTB Flash FM; http://play.radioftb.net:8008/stream
+Radio Paradise Main Mix; http://stream.radioparadise.com/flacm
 
 Playlist=Test
 Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
