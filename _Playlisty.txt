@@ -15,7 +15,7 @@ Mirage Space; https://ssl-1.radiohost.pl:9563/stream?ver=987766
 
 
 Playlist=Polskie stacje
-ESKAęśąasd asdłóąźćżą1; https://waw.ic.smcdn.pl/2380-1.aac
+ESKA; https://waw.ic.smcdn.pl/2380-1.aac
 ESKA 2; https://waw.ic.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://waw.ic.smcdn.pl/6230-1.aac
 ESKA 2 Disco Polo; https://waw.ic.smcdn.pl/6110-1.aac
@@ -43,7 +43,7 @@ Mbox; https://s1.slotex.pl:7462/;
 Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
 Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
-Najpiękniejsze polskie przeboje 12212121221; http://stream3.polskieradio.pl:8420
+Najpiękniejsze polskie przeboje; http://stream3.polskieradio.pl:8420
 Przeboje Lata z Radiem; http://stream3.polskieradio.pl:8426
 
 
