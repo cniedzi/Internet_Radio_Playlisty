@@ -43,7 +43,7 @@ Mbox; https://s1.slotex.pl:7462/;
 Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
 Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
-Najpiękniejsze polskie; http://stream3.polskieradio.pl:8420
+Najpiękniejsze polskie przeboje fdfddddd; http://stream3.polskieradio.pl:8420
 Przeboje Lata z Radiem; http://stream3.polskieradio.pl:8426
 
 
