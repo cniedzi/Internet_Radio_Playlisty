@@ -15,7 +15,7 @@ Mirage Space; https://ssl-1.radiohost.pl:9563/stream?ver=987766
 
 
 Playlist=Polskie stacje
-ESKA; http://ic1.smcdn.pl/2380-1.mp3
+ESKA; http://ic1.smcdn.pl/2380-1.aac
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
 ESKA 2 Disco Polo; https://waw.ic.smcdn.pl/6110-1.aac
