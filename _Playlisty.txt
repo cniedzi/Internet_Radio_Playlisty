@@ -194,7 +194,7 @@ Summer Classic; https://getradio.reconv.pl/openfm?s=summerclassic
 
 
 Playlist=Polskie stacje
-ESKA; http://ic1.smcdn.pl/2380-1.aac
+ESKA; https://waw.ic.smcdn.pl/2380-1.aac 
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
 ESKA 2 Disco Polo; https://ic1.smcdn.pl/6110-1.aac
