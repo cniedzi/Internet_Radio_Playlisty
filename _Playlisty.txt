@@ -85,24 +85,7 @@ Polskie Na Cały Dzień; https://getradio.reconv.pl/openfm?s=polskie-na-caly-dzi
 80s Rock; https://getradio.reconv.pl/openfm?s=80s-rock
 Rock Ballady; https://getradio.reconv.pl/openfm?s=rock-ballady
 Kolędy; https://getradio.reconv.pl/openfm?s=koledy
-Chill & Lofi Beats; https://getradio.reconv.pl/openfm?s=chill-lofi-beats
-RMF Classic; https://getradio.reconv.pl/openfm?s=rmf-classic
-Polskie Radio Kierowców; https://getradio.reconv.pl/openfm?s=polskie-radio-kierowcow
-Polskie Radio dla Zagranicy; https://getradio.reconv.pl/openfm?s=polskie-radio-dla-zagranicy
-Polskie Radio dla Ukrainy; https://getradio.reconv.pl/openfm?s=polskie-radio-dla-ukrainy
-Akademickie Radio Luz; https://getradio.reconv.pl/openfm?s=akademickie-radio-luz
-Latino PL; https://getradio.reconv.pl/openfm?s=summerpolo
-Polish Radio London; https://getradio.reconv.pl/openfm?s=polish-radio-london
-Radio Chopin; https://getradio.reconv.pl/openfm?s=radio-chopin
 Summer Party; https://getradio.reconv.pl/openfm?s=summerparty
-Radio Kolor; https://getradio.reconv.pl/openfm?s=radio-kolor
-Radio Rockserwis FM; https://getradio.reconv.pl/openfm?s=radio-rockserwis-fm
-Radio Akadera; https://getradio.reconv.pl/openfm?s=radio-akadera
-Acoustic Vibes; https://getradio.reconv.pl/openfm?s=acoustic-vibes
-Rock Radio; https://getradio.reconv.pl/openfm?s=rock-radio
-Radio Pogoda; https://getradio.reconv.pl/openfm?s=radio-pogoda
-Summer Chill; https://getradio.reconv.pl/openfm?s=summerchill
-Radio Afera; https://getradio.reconv.pl/openfm?s=radio-afera
 Summer Classic; https://getradio.reconv.pl/openfm?s=summerclassic
 
 
@@ -125,6 +108,7 @@ PR Czwórka; http://stream3.polskieradio.pl:8906/;
 VOX FM; https://ic1.smcdn.pl/3990-1.aac
 VOX FM Disco 90; https://ic1.smcdn.pl/6170-1.aac
 Radio Pogoda; https://radiostream.pl/tuba140-1.aac
+Radio Kolor; https://getradio.reconv.pl/openfm?s=radio-kolor
 Radio Dla Ciebie; https://stream4.nadaje.com:14007/plock
 Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
 Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
