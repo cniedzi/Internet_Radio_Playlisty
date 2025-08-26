@@ -12,11 +12,11 @@ Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 Mirage Italo Dance; http://s0.radiohost.pl:9569/;
 Mirage Space; https://ssl-1.radiohost.pl:9563/stream?ver=987766
+Italo Disco; https://getradio.reconv.pl/openfm?s=italo-disco
 
 Playlist=Open FM
 100% Hits; https://getradio.reconv.pl/openfm?s=100-hits
 Vixa; https://getradio.reconv.pl/openfm?s=vixa
-90s Chill; https://getradio.reconv.pl/openfm?s=90s-chill
 90s Hits; https://getradio.reconv.pl/openfm?s=90s-hits
 Weekend Hits; https://getradio.reconv.pl/openfm?s=weekend-hits
 Na Pełnej!; https://getradio.reconv.pl/openfm?s=edm-anthems
@@ -88,7 +88,6 @@ Kolędy; https://getradio.reconv.pl/openfm?s=koledy
 Summer Party; https://getradio.reconv.pl/openfm?s=summerparty
 Summer Classic; https://getradio.reconv.pl/openfm?s=summerclassic
 
-
 Playlist=Polskie stacje
 ESKA; https://ic1.smcdn.pl/2380-1.aac 
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
@@ -112,16 +111,34 @@ Radio Kolor; https://getradio.reconv.pl/openfm?s=radio-kolor
 Radio Dla Ciebie; https://stream4.nadaje.com:14007/plock
 Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
 Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
-Tok FM; https://radiostream.pl/tuba10-1.mp3
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio FAMA Żyrardow; http://stream4.nadaje.com:13770
 Mbox; https://s1.slotex.pl:7462/;
 Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
 Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
+
+Playlist=Po polsku
+Po Polsku; https://getradio.reconv.pl/openfm?s=po-polsku
 Najpiękniejsze polskie przeboje; http://stream3.polskieradio.pl:8420
 Przeboje Lata z Radiem; http://stream3.polskieradio.pl:8426
-
+Po Polsku 60s & 70s; https://getradio.reconv.pl/openfm?s=po-polsku-60-70
+Po Polsku 80s; https://getradio.reconv.pl/openfm?s=po-polsku-80
+Tylko Polskie Przeboje; https://getradio.reconv.pl/openfm?s=tylko-polskie-przeboje
+Polski Rock; https://getradio.reconv.pl/openfm?s=polski-rock
+Po Polsku 90s; https://getradio.reconv.pl/openfm?s=po-polsku-90
+Po Polsku 80s & 90s; https://getradio.reconv.pl/openfm?s=po-polsku-80s-90s
+Spokojne Po Polsku; https://getradio.reconv.pl/openfm?s=spokojne-po-polsku
+Polskie Ballady; https://getradio.reconv.pl/openfm?s=polskie-ballady
+Polska Rocks!; https://getradio.reconv.pl/openfm?s=polska-rocks
+Polski Rock Classic; https://getradio.reconv.pl/openfm?s=polski-rock-classic
+Polskie Na Cały Dzień; https://getradio.reconv.pl/openfm?s=polskie-na-caly-dzien
+Disco Polo Classic; https://getradio.reconv.pl/openfm?s=disco-polo-classic
+Hity Disco Polo; https://getradio.reconv.pl/openfm?s=hity-disco-polo
+Disco Polo; https://getradio.reconv.pl/openfm?s=disco-polo
+Impreza PL; https://getradio.reconv.pl/openfm?s=impreza-pl
+Disco Polo Nowości 2025; https://getradio.reconv.pl/openfm?s=disco-polo-freszzz
+Biesiada; https://getradio.reconv.pl/openfm?s=biesiada
 
 Playlist=Lata '80
 CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
@@ -141,7 +158,10 @@ Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
 ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 FluxFM 80s; http://streams.fluxfm.de/80er/mp3-320/
 Back To The 80; http://149.56.185.82:8135/
-
+80s Hits; https://getradio.reconv.pl/openfm?s=80s-hits
+80s & 90s; https://getradio.reconv.pl/openfm?s=80s-90s-hits
+Hity lat 70 80 90; https://getradio.reconv.pl/openfm?s=hity-lat-70-80-90
+80s Rock; https://getradio.reconv.pl/openfm?s=80s-rock
 
 Playlist=Lata '90
 CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
@@ -152,7 +172,11 @@ CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
 ON Radio 90s; https://0n-90s.radionetz.de/0n-90s.aac
 Raute Musik 90s; http://90s-high.rautemusik.fm/
-
+90s Hits; https://getradio.reconv.pl/openfm?s=90s-hits
+90s Dance; https://getradio.reconv.pl/openfm?s=klub-90
+80s & 90s; https://getradio.reconv.pl/openfm?s=80s-90s-hits
+Hity lat 70 80 90; https://getradio.reconv.pl/openfm?s=hity-lat-70-80-90
+90s Rock; https://getradio.reconv.pl/openfm?s=90s-rock
 
 Playlist=Greatest Hits
 ON Radio Greatest Hits; https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
@@ -170,14 +194,11 @@ Playlist=Lovesongs
 ON Radio Love; https://0n-love.radionetz.de/0n-love.aac
 80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
-
-Playlist=Inne
-ON Radio Pop; https://0n-pop.radionetz.de/0n-pop.aac
-ON Radio Hot; https://0n-hot.radionetz.de/0n-hot.aac
-ON Radio Rock; https://0n-rock.radionetz.de/0n-rock.aac
-FTB Club; http://play.radioftb.net:8000/stream
-FTB Flash FM; http://play.radioftb.net:8008/stream
-Radio Paradise Main Mix; http://stream.radioparadise.com/aac-320
+Ballady Wszech Czasów; https://getradio.reconv.pl/openfm?s=ballady-wszech-czasow
+Polskie Ballady; https://getradio.reconv.pl/openfm?s=polskie-ballady
+We Dwoje; https://getradio.reconv.pl/openfm?s=we-dwoje
+Love; https://getradio.reconv.pl/openfm?s=love
+Rock Ballady; https://getradio.reconv.pl/openfm?s=rock-ballady
 
 Playlist=Test
 Roxy Radio; https://s2.audiostream.hu/roxy_FLAC
