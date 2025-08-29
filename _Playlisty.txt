@@ -214,6 +214,6 @@ Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-fla
 M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Miss-Marple.m4a
 AAC; https://audio-edge-3mayu.fra.h.radiomast.io/ref-64k-heaacv1-stereo
 Chill192; https://streaming.starterfm.com/radio/8050/chill192
-Test; https://l.facebook.com/l.php?u=http%3A%2F%2Fjeansoft.zapto.org%2Fdownload%2Ftest%2F20Hz_20kHz.wav%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBEwcTY3aHBUMXpXTEdJYTRodwEeL77Xah1qEiucsTmwZOT0ivT_eQO1PZXiwovfNv4Rkq2vBxPuY-QdgjxGHtA_aem_bEeXrMdFnZt53qp4EiRL-g&h=AT1M2KhB1r8hGCdt0b2KqjaDdNwWX0-mg977ovPUv0RtaqwMBzhgjCV3x2gvCCHjF-7ffVUOq0A8NS4ODfSwYhO6mUiTelJCA80a3UAuPZcdH1TlFqiieSoMaSr3m6qo9VLyu_5cfKZpudHk&__tn__=-UK-R&c[0]=AT3CE3Gv4sQYckePCDTNazi8CEe2gh9yjUmUWAy-YbHqoh4BdurYxZiBBx1hbW971BamBcHvijL7318AYNKz_OQrg3LwmmL7AQ7aJ-bewYcoIKcanDYWy4v9IaQ93OsQbMDsZqxiTgDTMjr5CoGSFIeY6HC-zjpZOX1Fw8VkTylHoeLcxzBdUojRROrJb6Sjr8zSsMGEtXB-bYDahdNgcEsFuFEVA334IAkdy3bL2oWSQ10
+Test; https://raw.githubusercontent.com/cniedzi/Internet_Radio_Playlisty/main/20Hz_20kHz.wav
 
 
