@@ -214,6 +214,6 @@ Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-fla
 M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Miss-Marple.m4a
 AAC; https://audio-edge-3mayu.fra.h.radiomast.io/ref-64k-heaacv1-stereo
 Chill192; https://streaming.starterfm.com/radio/8050/chill192
-Test; https://raw.githubusercontent.com/cniedzi/Internet_Radio_Playlisty/main/20Hz_20kHz.wav
+Test; https://raw.githubusercontent.com/cniedzi/Internet_Radio_Playlisty/main/20Hz_20kHz.mp3
 
 
