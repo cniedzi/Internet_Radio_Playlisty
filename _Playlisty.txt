@@ -7,7 +7,6 @@ RMI Italo Disco Classic; https://phoebe.streamerr.co:4820/max1/3/web
 RDMix Italo Disco 80s; https://cast1.torontocast.com:2130/stream
 Radio Megatron Mix; https://maxradio.azuracast.com.es:8040/MEGATRONMIX.mp3
 Radio Italo Power; https://stream.deevaradio.net:10443/italopower
-Radio Maxitalo; https://phoebe.streamerr.co:4820/max1/3/web
 Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
 80s80s Italo Disco; https://regiocast.streamabc.net/regc-80s80sitalohits4327678-mp3-192-4934150
 Mirage Italo Dance; http://s0.radiohost.pl:9569/;
