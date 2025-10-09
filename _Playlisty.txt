@@ -3,7 +3,7 @@ Radio Italo4you; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 CMR Italo Disco; https://cmr-hosting.com/8050/stream
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
-RMI Italo Disco Classic; https://phoebe.streamerr.co:4820/max1/3/web
+RMI Italo Disco Classic; https://phoebe.streamerr.co:4820/max1/3/wmp.asx
 RDMix Italo Disco 80s; https://cast1.torontocast.com:2130/stream
 Radio Megatron Mix; https://maxradio.azuracast.com.es:8040/MEGATRONMIX.mp3
 Radio Italo Power; https://stream.deevaradio.net:10443/italopower
