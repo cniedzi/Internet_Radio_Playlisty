@@ -1,4 +1,5 @@
 Playlist=Italo Disco
+Najpiękniejsze polskie przeboje wszechczasów; http://s0.radiohost.pl:8018/stream
 Radio Italo4you; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 CMR Italo Disco; https://cmr-hosting.com/8050/stream
