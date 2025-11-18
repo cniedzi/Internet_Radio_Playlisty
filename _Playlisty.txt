@@ -70,7 +70,6 @@ CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
 Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
 Classics Radio 80's Hits; https://vriezenet.nl:11050/80mp3
 Futura.FM; https://futura.fm/stream.ogg?ts=1699656027.325
-Sector 80s; http://89.223.45.5:8000/geny-flac
 80s80s Digital; https://streams.80s80s.de/web/aac-64
 80s80s In The Mix; https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713
 80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
