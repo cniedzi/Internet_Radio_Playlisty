@@ -68,6 +68,7 @@ Biesiada; https://getradio.reconv.pl/openfm?s=biesiada
 Playlist=Lata '80
 CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
 Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
+Classics Radio 80's Hits; https://vriezenet.nl:11050/80mp3
 80s80s Digital; https://streams.80s80s.de/web/aac-64
 80s80s In The Mix; https://regiocast.streamabc.net/regc-80s80smix8012507-aacplus-64-3407713
 80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
@@ -9715,3 +9716,4 @@ Ogg FLAC HTTPS; https://audio-edge-5bkfj.fra.h.radiomast.io/ref-lossless-ogg-fla
 M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/Testfiles/Miss-Marple.m4a
 AAC; https://audio-edge-3mayu.fra.h.radiomast.io/ref-64k-heaacv1-stereo
 Chill192; https://streaming.starterfm.com/radio/8050/chill192
+
