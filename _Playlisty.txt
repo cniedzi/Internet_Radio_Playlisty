@@ -191,6 +191,7 @@ Christmas Vinyl HD; https://icecast.walmradio.com:8443/christmas
 80s80s Christmas; https://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017
 ON Radio Christmas; https://0n-christmas.radionetz.de/0n-christmas.aac
 Kolędy; https://getradio.reconv.pl/openfm?s=koledy
+Christmas Songs Radio; https://christmassongsradio.com/cheetah.streemlion.pls
 
 Playlist=Lovesongs
 ON Radio Love; https://0n-love.radionetz.de/0n-love.aac
