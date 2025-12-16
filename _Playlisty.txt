@@ -217,7 +217,7 @@ M4A; https://github.com/schreibfaul1/ESP32-audioI2S/raw/master/additional_info/T
 AAC; https://audio-edge-3mayu.fra.h.radiomast.io/ref-64k-heaacv1-stereo
 Chill192; https://streaming.starterfm.com/radio/8050/chill192
 Lap Fox Radio; https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
-La Pop’ulaire; http://hyperion.lapopulai.re:8000/radio.flac
+La Populaire; http://hyperion.lapopulai.re:8000/radio.flac
 AIDAradio; https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
 
 
