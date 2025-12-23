@@ -219,6 +219,8 @@ Chill192; https://streaming.starterfm.com/radio/8050/chill192
 Lap Fox Radio; https://radio.lapfoxradio.com/radio/8000/stream-flac.flac
 La Populaire; http://hyperion.lapopulai.re:8000/radio.flac
 AIDAradio; https://cdn05.radio.cloud:8128/AIDA-OMNIA-GAI
+Progressive Flac; http://89.223.45.5:8000/progressive-flac
+
 
 
 
