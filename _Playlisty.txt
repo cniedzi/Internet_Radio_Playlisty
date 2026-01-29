@@ -106,7 +106,7 @@ Hity lat 70 80 90; https://getradio.reconv.pl/openfm?s=hity-lat-70-80-90
 90s Rock; https://getradio.reconv.pl/openfm?s=90s-rock
 
 Playlist=Open FM
-A0123456789B0123456789C0123456789D0123456789E0123456789; https://getradio.reconv.pl/openfm?s=100-hits
+A0123456789B0123456789C0123456789D0123456789E0123456789F0123456789G0123456789H0123456789I0123456789; https://getradio.reconv.pl/openfm?s=100-hits
 100% Hits; https://getradio.reconv.pl/openfm?s=100-hits
 Vixa; https://getradio.reconv.pl/openfm?s=vixa
 90s Hits; https://getradio.reconv.pl/openfm?s=90s-hits
