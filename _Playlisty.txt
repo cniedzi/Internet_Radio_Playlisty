@@ -66,7 +66,7 @@ Disco Polo Nowości 2025; https://getradio.reconv.pl/openfm?s=disco-polo-freszzz
 Biesiada; https://getradio.reconv.pl/openfm?s=biesiada
 
 Playlist=Lata '80
-CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
+CMR 70s, 80s, 90s; http://cmr-hosting.com:8030/;stream/1
 Platinium Maxi 80; https://www.radioking.com/play/platinium-80/698833
 Classics Radio 80's Hits; https://vriezenet.nl:11050/80mp3
 Futura.FM; https://futura.fm/stream.ogg?ts=1699656027.325
@@ -91,7 +91,7 @@ Hity lat 70 80 90; https://getradio.reconv.pl/openfm?s=hity-lat-70-80-90
 80s Rock; https://getradio.reconv.pl/openfm?s=80s-rock
 
 Playlist=Lata '90
-CMR  70s 80s 90s; http://cmr-hosting.com:8030/;stream/1
+CMR 70s, 80s, 90s; http://cmr-hosting.com:8030/;stream/1
 90s90s Digital; http://streams.90s90s.de/pop/aac-64/
 90s90s In The Mix; http://streams.90s90s.de/inthemix/aac-64/
 90s90s Dance; http://streams.90s90s.de/danceradio/aac-64/
