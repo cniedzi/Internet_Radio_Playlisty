@@ -35,7 +35,7 @@ Radio Pogoda; https://radiostream.pl/tuba140-1.aac
 Radio Kolor; https://getradio.reconv.pl/openfm?s=radio-kolor
 Radio Dla Ciebie; https://stream4.nadaje.com:14007/plock
 Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
-Anty Radio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
+Antyradio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio FAMA Żyrardow; http://stream4.nadaje.com:13770
 Mbox; https://s1.slotex.pl:7462/;
