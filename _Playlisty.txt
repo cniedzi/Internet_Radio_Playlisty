@@ -12,6 +12,7 @@ Fantasy Italo Radio; https://italo.live-streams.nl/fantasy
 Mirage Italo Dance; http://s0.radiohost.pl:9569/;
 Mirage Space; https://ssl-1.radiohost.pl:9563/stream?ver=987766
 Italo Disco; https://getradio.reconv.pl/openfm?s=italo-disco
+Test; https://stream-cdn-1.open.fm/OFM167/ngrp:standard/playlist.m3u8?t=bc3278974fb1d36b16e8c672dd7f7fb9c6f3c2e2f2218120905e2af79f436252973d34852b663b6f828c8720e0e84a52c116adcdbd67bb4f81f3f1bb05de6dfb57bed563fe9b6f845bcf0b6bf9a69245d2d3b6830988ddfecea0d73bdcccf45adb277560d74e18e86a50d33fcbe177aafa2da39d7258343886471e5833f0e9ecac2073c9e3b49cfd92ec84962f3019a0094b282ec95bcd5b27290b7c3be4026fb574c889978a405566b43fefe5fedf89ef4acc825a0b8204ae6a112cf69b9411f3883127ae88d3e0d77bcebd09ca68dc6a73
 
 Playlist=Polskie stacje
 ESKA; https://ic1.smcdn.pl/2380-1.aac 
