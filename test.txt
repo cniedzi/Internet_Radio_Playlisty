@@ -1,4 +1,4 @@
-Playlist=9
+Playlist=9 0123456789 0123456789 0123456789 0123456789 0123456789
 0123456789 0123456789 01234567890 0123456789 0123456789 0123456789 0123456789; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 CMR Italo Disco; https://cmr-hosting.com/8050/stream
@@ -9,7 +9,7 @@ Radio Megatron Mix; https://maxradio.azuracast.com.es:8040/MEGATRONMIX.mp3
 Radio Italo Power; https://stream.deevaradio.net:10443/italopower
 
 
-Playlist=99
+Playlist=99 0123456789 0123456789 0123456789 0123456789 0123456789
 0123456789 0123456789 01234567890 0123456789 0123456789 0123456789 0123456789; https://ic1.smcdn.pl/2380-1.aac 
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
@@ -102,7 +102,7 @@ RMF Maxxx; https://rs202-krk.rmfstream.pl/RMFMAXXX48
 RMF Top 5 Disco Polo; https://rs9-krk2-cyfronet.rmfstream.pl/TOP5RNB
 
 
-Playlist=999
+Playlist=999 0123456789 0123456789 0123456789 0123456789 0123456789
 0123456789 0123456789 01234567890 0123456789 0123456789 0123456789 0123456789; https://ic1.smcdn.pl/2380-1.aac 
 ESKA 2; https://ic1.smcdn.pl/1380-1.aac
 ESKA 2 Polskie Na Czasie; https://ic1.smcdn.pl/6230-1.aac
