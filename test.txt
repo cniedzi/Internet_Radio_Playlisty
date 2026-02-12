@@ -1,5 +1,5 @@
 Playlist=9 0123456789 0123456789 0123456789 0123456789 0123456789
-0123456789 0123456789 01234567890 0123456789 0123456789 0123456789 0123456789; http://s0.radiohost.pl:8018/stream
+0123456789 0123456789 0123456789 0123456789 0123456789 0123456789 0123456789; http://s0.radiohost.pl:8018/stream
 Italo Disco Net; https://cast2.asurahosting.com/proxy/alen/stream
 CMR Italo Disco; https://cmr-hosting.com/8050/stream
 Radio Italo Disco; https://broadcast.miami/proxy/italodisco?mp=/;
