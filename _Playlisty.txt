@@ -40,12 +40,7 @@ Mbox; https://s1.slotex.pl:7462/;
 Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
 Mbox Gold Hits; https://s3.slotex.pl:7276/stream
 Mbox Disco Polo; https://s3.slotex.pl:7222/stream
-RMF Dance; https://getradio.reconv.pl/rmfon?s=rmf-dance
-RMF Disco; https://getradio.reconv.pl/rmfon?s=rmf-disco
-RMF Polskie przeboje; https://getradio.reconv.pl/rmfon?s=rmf-polskie-przeboje
-RMF Party; https://getradio.reconv.pl/rmfon?s=rmf-party
-RMF Największe polskie przeboje; https://getradio.reconv.pl/rmfon?s=rmf-najwieksze-polskie-przeboje-rmf-on
-RMF Top 30 dance; https://getradio.reconv.pl/rmfon?s=rmf-top-5-dance
+
 
 
 
@@ -69,7 +64,6 @@ Futura.FM; https://futura.fm/stream.ogg?ts=1699656027.325
 ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 FluxFM 80s; http://streams.fluxfm.de/80er/mp3-320/
 Back To The 80; http://149.56.185.82:8135/
-RMF 80s; https://getradio.reconv.pl/rmfon?s=rmf-80s
 
 Playlist=Lata '90
 CMR 70s, 80s, 90s; http://cmr-hosting.com:8030/;stream/1
@@ -80,8 +74,7 @@ CMR 70s, 80s, 90s; http://cmr-hosting.com:8030/;stream/1
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
 ON Radio 90s; https://0n-90s.radionetz.de/0n-90s.aac
 Raute Musik 90s; http://90s-high.rautemusik.fm/
-RMF 90s; https://getradio.reconv.pl/rmfon?s=rmf-90s
-RMF 90s Dance; https://getradio.reconv.pl/rmfon?s=rmf-90s-dance
+
 
 Playlist=Greatest Hits
 ON Radio Greatest Hits; https://0n-greatesthits.radionetz.de/0n-greatesthits.aac
@@ -89,19 +82,14 @@ ON Radio Classic Rock; https://0n-classicrock.radionetz.de/0n-classicrock.aac
 ON Radio Oldies; https://0n-oldies.radionetz.de/0n-oldies.aac
 ON Radio Gold; https://0n-gold.radionetz.de/0n-gold.aac
 ON Radio Evergreens; https://0n-evergreens.radionetz.de/0n-evergreens.aac
-RMF Gold; https://getradio.reconv.pl/rmfon?s=rmf-gold
 
 Playlist=Christmas
 Christmas Vinyl HD; https://icecast.walmradio.com:8443/christmas
 80s80s Christmas; https://regiocast.streamabc.net/regc-80s80sevent014441101-mp3-192-8841017
 ON Radio Christmas; https://0n-christmas.radionetz.de/0n-christmas.aac
 Christmas Songs Radio; https://christmassongsradio.com/cheetah.streemlion.pls
-RMF Kolędy; https://getradio.reconv.pl/rmfon?s=rmf-koledy
-RMF Top 30 święta; https://getradio.reconv.pl/rmfon?s=rmf-top-30-swieta
 
 Playlist=Lovesongs
 ON Radio Love; https://0n-love.radionetz.de/0n-love.aac
 80s80s Lovesongs; https://streams.80s80s.de/love/mp3-192/streams
 90s90s Lovesongs; http://streams.90s90s.de/love/aac-64/
-RMF Ballady; https://getradio.reconv.pl/rmfon?s=rmf-ballady
-RMF Love; https://getradio.reconv.pl/rmfon?s=rmf-love
