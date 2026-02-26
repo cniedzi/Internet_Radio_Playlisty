@@ -33,7 +33,7 @@ VOX FM Disco 90; https://ic1.smcdn.pl/6170-1.aac
 Radio Pogoda; https://radiostream.pl/tuba140-1.aac
 Radio Dla Ciebie; https://stream4.nadaje.com:14007/plock
 Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
-Antyradio; https://redir.atmcdn.pl/sc/o2/Eurozet/live/antyradio.livx
+Antyradio; https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio FAMA Żyrardów; http://stream4.nadaje.com:13770
 Mbox; https://s1.slotex.pl:7462/;
