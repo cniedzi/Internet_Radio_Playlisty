@@ -36,10 +36,10 @@ Złote Przeboje; https://radiostream.pl/tuba8920-1.mp3
 Antyradio; https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx
 Radio Victoria; http://stream.v4.radiovictoria.pl:8176/;
 Radio FAMA Żyrardów; http://stream4.nadaje.com:13770
-Mbox; https://s1.slotex.pl:7462/;
-Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
-Mbox Gold Hits; https://s3.slotex.pl:7276/stream
-Mbox Disco Polo; https://s3.slotex.pl:7222/stream
+Radio Mbox; https://s1.slotex.pl:7462/;
+Radio Mbox Polska Muzyka; https://s3.slotex.pl:7072/stream
+Radio Mbox Gold Hits; https://s3.slotex.pl:7276/stream
+Radio Mbox Disco Polo; https://s3.slotex.pl:7222/stream
 
 
 
