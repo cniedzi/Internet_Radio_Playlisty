@@ -62,7 +62,7 @@ Futura.FM 80s Today; https://futura.fm/stream.ogg?ts=1699656027.325
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
 ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 FluxFM 80s; http://streams.fluxfm.de/80er/mp3-320/
-Back To The 80; http://149.56.185.82:8135/
+Radio Back To The 80; http://149.56.185.82:8135/
 
 Playlist=Lata '90
 CMR 70s, 80s, 90s; http://cmr-hosting.com:8030/;stream/1
