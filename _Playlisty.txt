@@ -22,7 +22,7 @@ ESKA Rock; https://ic1.smcdn.pl/5980-1.aac
 ESKA Impreska; https://ic1.smcdn.pl/6030-1.aac
 RMF FM; https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48
 RMF Maxx; https://rs202-krk.rmfstream.pl/RMFMAXXX48
-RMF Top 5 Disco Polo; https://rs9-krk2-cyfronet.rmfstream.pl/TOP5RNB
+RMF Top 30 Disco Polo; https://rs9-krk2-cyfronet.rmfstream.pl/TOP5RNB
 Radio Zet; https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx
 PR Jedynka; http://mp3.polskieradio.pl:8900/;
 PR Dwójka; http://mp3.polskieradio.pl:8902/;
