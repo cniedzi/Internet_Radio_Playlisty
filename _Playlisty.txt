@@ -60,7 +60,6 @@ Futura.FM 80s Today; https://futura.fm/stream.ogg?ts=1699656027.325
 80s80s Party; https://streams.80s80s.de/party/aac-64
 80s80s Summer; https://regiocast.streamabc.net/regc-80s80ssummerhits6639316-mp3-192-4184283
 80s80s Queen; https://streams.80s80s.de/queen/mp3-192
-80s Total; https://cdn03.radio.cloud/stream/NCD-80s-BER
 ON Radio 80s; https://0n-80s.radionetz.de/0n-80s.aac
 FluxFM 80s; http://streams.fluxfm.de/80er/mp3-320/
 Back To The 80; http://149.56.185.82:8135/
